@@ -1,1 +1,1 @@
-# TextSummarizerApp
+# Text Summarizer App
